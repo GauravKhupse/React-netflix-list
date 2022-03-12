@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading{
+  font-family: 'Roboto', sans-serif;
+  text-align:center;
+  text-transform: capitalize;
+  color: rgb(131, 131, 207);
+  text-shadow: 0px 2px 0px rgb(224, 153, 153);
+}
+
+.main-gallery{
+  display: flex;
+  justify-content: center;
+}
+.image-gallry{
+width:300px;
+height: 400px;
+border: 1px solid rgb(141, 141, 180);
+margin-right:auto;
+
+}
